@@ -1,0 +1,10 @@
+.media
+.virtualenvs
+node_modules
+*.pyc
+*.pyo
+__pycache__/
+src/
+react_django_komendy.txt
+migrations/
+__init__.py
